@@ -7,7 +7,7 @@ var carTax = .06;
 var years2 = 24;
 var year = 12;
 var insurance = 160; 
-var interest = .03
+var interest = .03;
 
 var finalAmount = totalCost - moneyDown;
 var taxPer2Year = finalAmount * carTax;
